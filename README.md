@@ -2,6 +2,7 @@ HR Analyst | Data Analyst
 
 📍 Perinthalmanna, India
 📧 cpmohammedjabir@gmail.com
+mjcp707@gmail.com
 
 📞 +91 8129949434
 🔗https://www.linkedin.com/in/jabirchundampatta

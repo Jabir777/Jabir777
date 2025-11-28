@@ -1,16 +1,37 @@
-## Hi there 👋
+HR Analyst | Data Analyst
 
-<!--
-**Jabir777/Jabir777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Perinthalmanna, India
+📧 cpmohammedjabir@gmail.com
 
-Here are some ideas to get you started:
+📞 +91 8129949434
+🔗https://www.linkedin.com/in/jabirchundampatta
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+Proactive HR & Business Analyst skilled in transforming data into strategic insights. Experienced in performance dashboards, HR analytics, workforce planning and operational process optimization. Strong interest in leveraging analytics to improve employee experience and business decisions.
+
+I love solving problems using:
+
+📊 Data Visualization
+
+🧠 Statistical & HR Analytics
+
+🔍 Business Process Improvement
+
+| HR Analytics                 | Business & Tech                |
+| ---------------------------- | ------------------------------ |
+| HR Metrics & Reporting       | Excel, Power BI, Tableau       |
+| Employee Engagement          | SQL, Python, R, SPSS           |
+| Attendance & Payroll Support | Data Cleaning & Dashboarding   |
+| Talent Mgmt & HRMS           | Predictive Analytics           |
+| HR Policies & SOP            | Process Mapping & Optimization |
+
+Education
+
+MBA – Data Analytics
+Pondicherry University (2023 – 2025)
+
+BVOC – Business Process & Data Analytics
+CUSAT (2019 – 2022)
+
+
